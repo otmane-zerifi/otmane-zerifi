@@ -4,8 +4,6 @@
 🎓 Full-Stack Developer  
 🛠️ Graduate of 1337 School (42 Network)  
 📜 Google IT Support Certificate  
-🛡️ Passionate about secure, performant, and clean UIs  
-📊 Focused on dashboards, real-time systems & cybersecurity tools
 
 ---
 
